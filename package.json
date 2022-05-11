@@ -1,6 +1,6 @@
 {
 	"name": "agnostic-draggable-bug-fixed",
-	"version": "1.0.11",
+	"version": "1.0.12",
 	"description": "An agnostic set of libraries implementing draggable, droppable and sortable behaviours inspired by the jQuery UI implementation",
 	"keywords": [
 		"draggable",
@@ -16,13 +16,13 @@
 		"javascript"
 	],
 	"license": "MIT",
-	"homepage": "https://github.com/rozek/agnostic-draggable#readme",
+	"homepage": "https://github.com/myCulture/agnostic-draggable#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/rozek/agnostic-draggable.git"
+		"url": "git+https://github.com/myCulture/agnostic-draggable.git"
 	},
 	"bugs": {
-		"url": "https://github.com/rozek/agnostic-draggable/issues"
+		"url": "https://github.com/myCulture/agnostic-draggable/issues"
 	},
 	"author": {
 		"name": "Marcos Pont",
